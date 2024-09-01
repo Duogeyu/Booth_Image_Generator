@@ -1,6 +1,8 @@
 # Booth Image Generator
 
 Booth Image Generator是一个用于从Booth平台获取最新VRChat商品信息并生成商品预览图的Python脚本。
+##生成的图片预览
+![预览](3128165.png)
 ## 注意事项
 
 - 确保在运行脚本之前已正确配置Selenium的WebDriver。

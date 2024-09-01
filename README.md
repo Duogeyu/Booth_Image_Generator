@@ -69,11 +69,6 @@ python booth_image.py generate <item_id>
 - Pillow
 - qrcode
 
-## 注意事项
-
-- 确保在运行脚本之前已正确配置Selenium的WebDriver。
-- 本项目仅用于学习和个人使用，请遵守Booth平台的使用条款。
-
 ## 贡献
 
 欢迎贡献代码和建议！请通过提交issue或pull request参与项目。

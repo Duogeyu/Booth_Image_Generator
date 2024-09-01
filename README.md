@@ -1,6 +1,6 @@
 # Booth Image Generator
 
-Booth Image Generator是一个用于从Booth平台获取最新VRChat商品信息并生成商品预览图的Python脚本。
+Booth Image Generator是一个用于从Booth平台获取最新VRChat商品信息并生成商品预览卡片与指定Booth商品id生成预览卡片并且自动检测R18 Tag屏蔽图片以适应社交平台发送的Python脚本。
 
 ## 生成的卡片图片预览
 ![预览](3121865.png)
